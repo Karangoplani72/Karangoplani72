@@ -34,20 +34,34 @@ I care about **UI clarity, performance, and code quality**, not tutorial clones 
 
 ## 🚀 Featured Projects
 
-- **Portfolio Website**  
-  Responsive personal site showcasing projects and UI work  
-  `HTML • CSS • JavaScript`  
-  🔗 Live | 📂 Code
+### 🔹 Frontend Portfolio
+**Clean, responsive personal portfolio showcasing UI-focused projects and real-world work.**  
+Built with a strong emphasis on layout, responsiveness, and clarity.
 
-- **UI-Focused Web App**  
-  Practical frontend project solving a real usability problem  
-  `React • CSS`  
-  🔗 Live | 📂 Code
+**Tech:** HTML, CSS, JavaScript, React  
+🔗 Live: https://karan-portfolio-self.vercel.app/  
+📂 Repo: https://github.com/Karangoplani72/karan_portfolio_
 
-- **Internship Project / Case Study**  
-  Real-world contribution with emphasis on code quality  
-  `Tech stack used`  
-  📂 Code
+---
+
+### 🔹 Nail Studio Website (Real-World UI Project)
+**Business-oriented website designed for a nail studio with mobile-first UI and clear user flow.**  
+Focused on usability, visual hierarchy, and customer-facing design.
+
+**Tech:** HTML, CSS, JavaScript  
+🔗 Live: https://nail-studio.vercel.app/  
+📂 Repo: https://github.com/Karangoplani72/nail-studio
+
+---
+
+### 🔹 Web-Based Image Editing Tool
+**Browser-based image editing tool allowing basic edits directly in the UI.**  
+Built to explore frontend logic, DOM manipulation, and user interactions.
+
+**Tech:** JavaScript, HTML, CSS  
+🔗 Live: https://dhruv-edits.vercel.app/  
+📂 Repo: https://github.com/Karangoplani72/dhruv-edits
+
 
 
 ---
