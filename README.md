@@ -14,24 +14,6 @@ I care about **UI clarity, performance, and code quality**, not tutorial clones 
 
 ---
 
-## 🛠 Core Stack
-**Used Regularly**
-- HTML, CSS, JavaScript  
-- React  
-- Git & GitHub  
-
-**Working Knowledge**
-- Node.js  
-- Bootstrap  
-
-**Exposure**
-- AWS  
-- Express.js  
-
-
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 Frontend Portfolio
@@ -61,6 +43,28 @@ Focused on clean UI, visual hierarchy, and conversion-oriented layout.
 **Tech:** HTML, CSS, JavaScript  
 🔗 Live: https://dhruv-edits.vercel.app/  
 📂 Repo: https://github.com/Karangoplani72/dhruv-edits
+
+
+
+---
+
+## 🛠 Core Stack
+**Used Regularly**
+- HTML, CSS, JavaScript  
+- React  
+- Git & GitHub  
+
+**Working Knowledge**
+- Node.js  
+- Bootstrap  
+
+**Exposure**
+- AWS  
+- Express.js  
+
+
+
+---
 
 
 
