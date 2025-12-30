@@ -54,13 +54,14 @@ Focused on usability, visual hierarchy, and customer-facing design.
 
 ---
 
-### 🔹 Web-Based Image Editing Tool
-**Browser-based image editing tool allowing basic edits directly in the UI.**  
-Built to explore frontend logic, DOM manipulation, and user interactions.
+### 🔹 Client Portfolio Website (Video Editor)
+**Responsive portfolio website built for a professional video editor to showcase services, work samples, and client collaborations.**  
+Focused on clean UI, visual hierarchy, and conversion-oriented layout.
 
-**Tech:** JavaScript, HTML, CSS  
+**Tech:** HTML, CSS, JavaScript  
 🔗 Live: https://dhruv-edits.vercel.app/  
 📂 Repo: https://github.com/Karangoplani72/dhruv-edits
+
 
 
 
