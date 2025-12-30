@@ -28,7 +28,7 @@ I care about **UI clarity, performance, and code quality**, not tutorial clones 
 - AWS  
 - Express.js  
 
-> If it’s listed here, I can explain it. No badge padding.
+
 
 ---
 
@@ -50,14 +50,6 @@ I care about **UI clarity, performance, and code quality**, not tutorial clones 
   `Tech stack used`  
   📂 Code
 
----
-
-## 📈 GitHub Activity
-I focus on **meaningful commits**, not streak farming.
-Most activity is:
-- Feature additions
-- UI improvements
-- Refactoring and cleanup
 
 ---
 
