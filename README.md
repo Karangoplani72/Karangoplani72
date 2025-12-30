@@ -33,7 +33,6 @@ I care about **UI clarity, performance, and code quality**, not tutorial clones 
 ---
 
 ## 🚀 Featured Projects
-> (Pinned repositories below — start here)
 
 - **Portfolio Website**  
   Responsive personal site showcasing projects and UI work  
