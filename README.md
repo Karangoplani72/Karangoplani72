@@ -1,20 +1,77 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Front-end development, UI-focused web projects, and improving code quality through real-world internships.<br>👯 I’m looking to collaborate on<br>Practical web apps, UI/UX-driven projects, and products that solve actual problems—not tutorial clones.<br>🤝 I’m looking for help with<br>Career direction, real-world architecture decisions, and turning decent skills into hire-worthy expertise.<br>🌱 I’m currently learning<br>Advanced JavaScript, modern frontend frameworks, performance optimization, and cleaner design systems.<br>💬 Ask me about<br>HTML, CSS, JavaScript, frontend fundamentals, portfolio building, and internship prep.<br>⚡ Fun fact<br>I overthink more than I code—but I’m fixing that by shipping instead of hesitating.
+# 👋 Hi, I'm Karan Goplani
 
+Frontend Developer focused on building clean, responsive, and usable web interfaces.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Karangoplani72) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Karangoplani72) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karangoplani72) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Karangoplani72) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ImpressiveConcept975)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Karangoplani72) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karangoplani72@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karangoplani72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Karangoplani72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karangoplani72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Karangoplani72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I care about **UI clarity, performance, and code quality**, not tutorial clones or noisy projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Karangoplani72&icon=8&color=13)](https://visitcount.itsvg.in)
+
+## 🧠 What I Do
+- Build frontend-focused web projects using **HTML, CSS, JavaScript, React**
+- Turn designs into responsive, accessible interfaces
+- Improve existing codebases through refactoring and UI polish
+- Actively preparing for **frontend internships / entry-level roles**
+
+---
+
+## 🛠 Core Stack
+**Used Regularly**
+- HTML, CSS, JavaScript  
+- React  
+- Git & GitHub  
+
+**Working Knowledge**
+- Node.js  
+- Bootstrap  
+
+**Exposure**
+- AWS  
+- Express.js  
+
+> If it’s listed here, I can explain it. No badge padding.
+
+---
+
+## 🚀 Featured Projects
+> (Pinned repositories below — start here)
+
+- **Portfolio Website**  
+  Responsive personal site showcasing projects and UI work  
+  `HTML • CSS • JavaScript`  
+  🔗 Live | 📂 Code
+
+- **UI-Focused Web App**  
+  Practical frontend project solving a real usability problem  
+  `React • CSS`  
+  🔗 Live | 📂 Code
+
+- **Internship Project / Case Study**  
+  Real-world contribution with emphasis on code quality  
+  `Tech stack used`  
+  📂 Code
+
+---
+
+## 📈 GitHub Activity
+I focus on **meaningful commits**, not streak farming.
+Most activity is:
+- Feature additions
+- UI improvements
+- Refactoring and cleanup
+
+---
+
+## 📬 Open to Opportunities
+- Frontend Internships  
+- Entry-level Web / Frontend Roles  
+
+📩 Reach out via **LinkedIn** or **Email** below.
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/Karangoplani72  
+- Email: karangoplani72@gmail.com  
+
+---
 
