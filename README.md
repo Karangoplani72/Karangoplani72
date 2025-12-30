@@ -62,14 +62,8 @@ Focused on clean UI, visual hierarchy, and conversion-oriented layout.
 - AWS  
 - Express.js  
 
-
-
 ---
 
-
-
-
----
 
 ## 📬 Open to Opportunities
 - Frontend Internships  
